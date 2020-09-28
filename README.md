@@ -9,7 +9,7 @@ Avant de commencer. Consulter les instructions à suivre dans [instructions.md](
 ## 1. Maximums d'une liste de listes
 ### `get_maximums`
 
-Write a Python program to find the list in a list of lists whose sum of elements is the highest. Générez la liste des maximums d'une liste de listes de nombres. On veut donc le maximum de chacune des listes.
+Générez la liste des maximums d'une liste de listes de nombres. On veut donc le maximum de chacune des listes.
 
 Exemple :
 ```python
@@ -17,7 +17,7 @@ print(get_maximums([[1,2,3], [6,5,4], [10,11,12], [8,9,7]]))
 ```
 Résultat :
 ```
-[2, 3, 5, 7, 11, 13]
+[3, 6, 12, 9]
 ```
 ## 2. Concaténation de nombres
 ### `join_integers`
